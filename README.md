@@ -1,6 +1,6 @@
 # Expenses-Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple ReactJs Expense-Tracker , based on the concept of React Hooks and React Context Api. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
